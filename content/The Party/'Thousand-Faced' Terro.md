@@ -5,6 +5,6 @@ draft: false
 tags:
 
 ---
-![](/static/Art/Terro.webp)
+![|308x462](/static/Art/Terro.webp)
 # Basic Info
 ---
