@@ -6,8 +6,7 @@ tags:
 
 ---
 
-
-![[Terro.webp|229x344]]
+![Terro|265x398](Art/Terro.webp)
 
 # Basic Info
 -----
