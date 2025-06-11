@@ -1,3 +1,3 @@
-<p align="center">
+<figure style="text-align: center;">
   <img src="/static/Art/.webp" alt="" width="400">
-</p>
+</figure>
