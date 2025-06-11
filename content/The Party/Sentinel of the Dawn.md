@@ -6,8 +6,8 @@ tags:
 
 ---
 
-<p align="center">
+<figure style="text-align: center;">
   <img src="/static/Art/dawn.webp" alt="Dawn" width="400">
-</p>
+</figure>
 # Basic Info
 ----

@@ -6,9 +6,9 @@ tags:
 
 ---
 
-<p align="center">
+<figure style="text-align: center;">
   <img src="/static/Art/nephiah.webp" alt="Nephiah" width="400">
-</p>
+</figure>
 # Basic Info
 -----
 
