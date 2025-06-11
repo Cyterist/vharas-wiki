@@ -2,12 +2,11 @@
 # Soleil
 ----
 Rune's draconic cat familiar
-Currently Unnamed
 Bio: Found in a pile of meat after the party defeated a troll, they are strangely drawn to Rune for unknown reasons.
 
-<p align="center">
-  <img src="/static/Art/Soleil.webp" alt="Soleil" width="400">
-</p>
+<figure style="text-align: center;">
+  <img src="/static/Art/Soleil.webp" alt="Soleil" width = 400>
+</figure>
 
 # Marshmallow
 ----
