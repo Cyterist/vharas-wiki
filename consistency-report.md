@@ -5868,16 +5868,16 @@
 
 
 # Bad embeds (23 files)
-[Alandra](Alandra.md):
+[Alandra](content/​NPCs/Alandra.md):
 - (line 13): `Alandra.webp`
 
 
-['Thousand-Faced' Terro]('Thousand-Faced'%20Terro.md):
+['Thousand-Faced' Terro](content/​The%20Party/'Thousand-Faced'%20Terro.md):
 - (line 8): `Terro.webp`
 - (line 18): `terro-tattoo.webp`
 
 
-[Familiars](Familiars.md):
+[Familiars](content/​The%20Party/Familiars.md):
 - (line 17): `Soleil.webp`
 - (line 24): `Marshmallow.webp`
 - (line 31): `Basil.webp`
@@ -5888,15 +5888,15 @@
 - (line 10): `Felix.webp`
 
 
-[Nephiah](Nephiah.md):
+[Nephiah](content/​The%20Party/Nephiah.md):
 - (line 10): `nephiah.webp`
 
 
-[Rune](content/The%20Party/Rune.md):
+[Rune](content/​The%20Party/Rune.md):
 - (line 10): `rune.webp`
 
 
-[Sentinel of the Dawn](Sentinel%20of%20the%20Dawn.md):
+[Sentinel of the Dawn](content/​The%20Party/Sentinel%20of%20the%20Dawn.md):
 - (line 10): `dawn.webp`
 
 
@@ -6384,15 +6384,15 @@
 
 
 # Wiki embeds (15 files)
-[Alandra](Alandra.md):
+[Alandra](content/​NPCs/Alandra.md):
 - (line 13): `Alandra.webp`
 
 
-['Thousand-Faced' Terro]('Thousand-Faced'%20Terro.md):
+['Thousand-Faced' Terro](content/​The%20Party/'Thousand-Faced'%20Terro.md):
 - (line 18): `terro-tattoo.webp`
 
 
-[Familiars](Familiars.md):
+[Familiars](content/​The%20Party/Familiars.md):
 - (line 17): `Soleil.webp`
 - (line 24): `Marshmallow.webp`
 - (line 31): `Basil.webp`
@@ -6403,15 +6403,15 @@
 - (line 10): `Felix.webp`
 
 
-[Nephiah](Nephiah.md):
+[Nephiah](content/​The%20Party/Nephiah.md):
 - (line 10): `nephiah.webp`
 
 
-[Rune](content/The%20Party/Rune.md):
+[Rune](content/​The%20Party/Rune.md):
 - (line 10): `rune.webp`
 
 
-[Sentinel of the Dawn](Sentinel%20of%20the%20Dawn.md):
+[Sentinel of the Dawn](content/​The%20Party/Sentinel%20of%20the%20Dawn.md):
 - (line 10): `dawn.webp`
 
 
