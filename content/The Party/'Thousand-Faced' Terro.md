@@ -5,8 +5,8 @@ draft: false
 tags:
 
 ---
+![|295x443](Terro.webp)
 
-![|267x401](../../Art/Terro.webp)
 # Basic Info
 -----
 
