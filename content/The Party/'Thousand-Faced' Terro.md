@@ -5,9 +5,10 @@ draft: false
 tags:
 
 ---
-# Art
+
 <figure style="text-align: center;">
   <img src="/static/Art/Terro.webp" alt="Terro" width="400">
-</figure> 
+</figure>
+
 # Basic Info
 ---
