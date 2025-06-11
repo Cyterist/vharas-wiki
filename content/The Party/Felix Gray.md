@@ -1,4 +1,3 @@
-
 ---
 title: "Felix Gray"
 draft: false

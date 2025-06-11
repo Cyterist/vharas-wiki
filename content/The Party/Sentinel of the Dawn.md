@@ -1,4 +1,3 @@
-
 ---
 title: "Sentinel of the Dawn"
 draft: false

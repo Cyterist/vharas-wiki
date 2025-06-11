@@ -1,4 +1,3 @@
-
 ---
 title: "'Thousand-Faced' Terro"
 draft: false
