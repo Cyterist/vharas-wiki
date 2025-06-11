@@ -5,6 +5,6 @@ draft: false
 tags:
 
 ---
-![|306x459](quartz/static/Art/Terro.webp)
+![](/static/Art/Terro.webp)
 # Basic Info
 ---
