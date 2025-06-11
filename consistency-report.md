@@ -5892,7 +5892,7 @@
 - (line 10): `nephiah.webp`
 
 
-[Rune](Rune.md):
+[Rune](content/The%20Party/Rune.md):
 - (line 10): `rune.webp`
 
 
@@ -6407,7 +6407,7 @@
 - (line 10): `nephiah.webp`
 
 
-[Rune](Rune.md):
+[Rune](content/The%20Party/Rune.md):
 - (line 10): `rune.webp`
 
 

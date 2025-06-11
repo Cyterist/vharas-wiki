@@ -6,7 +6,7 @@ tags:
 
 ---
 <p align="center">
-  <img src="/static/Art/Terro.webp" alt="Terro" width="462">
+  <img src="/static/Art/Terro.webp" alt="Terro" width="400">
 </p>
 # Basic Info
 ---
