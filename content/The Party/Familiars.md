@@ -1,8 +1,9 @@
 
 # Soleil
 ----
-Rune's draconic cat familiar
+<p>Rune's draconic cat familiar<br>
 Bio: Found in a pile of meat after the party defeated a troll, they are strangely drawn to Rune for unknown reasons.
+</p>
 
 <figure style="text-align: center;">
   <img src="/static/Art/Soleil.webp" alt="Soleil" width = 400>
